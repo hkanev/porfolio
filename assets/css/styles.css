@@ -543,3 +543,16 @@ iframe {
     width: 1360px;
   }
 }
+
+.certificates{
+  display: none;
+  margin-left: 40px;
+}
+
+#firstCertificate{
+  display: inline-block;
+}
+
+#previousBtn, #nextBtn{
+  font-size: 50px;
+}
