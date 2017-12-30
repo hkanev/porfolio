@@ -554,5 +554,9 @@ iframe {
 }
 
 #previousBtn, #nextBtn{
-  font-size: 50px;
+  font-size: 58px;
+}
+
+#certificateImage{
+  width: 80%;
 }

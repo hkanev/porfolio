@@ -17,14 +17,16 @@
     <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">   
     <!-- Plugins CSS -->
     <link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.css">
-    
+
+    <!-- LightBox CSS -->
+    <link href="node_modules/lightbox2/dist/css/lightbox.min.css" rel="stylesheet">
     <!-- github calendar css -->
     <link rel="stylesheet" href="assets/plugins/github-calendar/dist/github-calendar.css"
 />
     <!-- github acitivity css -->
     <link rel="stylesheet" href="assets/plugins/github-activity/src/github-activity.css">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/octicons/2.0.2/octicons.min.css">
-    
+
     <!-- Theme CSS -->  
     <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -327,7 +329,9 @@
                         <h2 class="heading">Certificates</h2>
                         <div class="content" id="certificateDiv">
                             <a href="#" id="previousBtn">&#8249;</a>
-                            <img src="assets/images/cert1.jpg"  id='certificateImage' height="266" width="239"/>
+                            <a href="assets/images/cert3.jpg" id="certificateLink" data-lightbox="certificates">
+                                <img src="assets/images/cert3.jpg"  id="certificateImage"/>
+                            </a>
                             <a href="#" id="nextBtn">&#8250;</a>
                             <input type="hidden" id="img_no" value="0">
                         </div><!--//content-->
@@ -397,6 +401,8 @@
     <!-- github activity plugin -->
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
     <script type="text/javascript" src="assets/plugins/github-activity/src/github-activity.js"></script>
+    <!-- LightBox -->
+    <script src="node_modules/lightbox2/dist/js/lightbox.min.js"></script>
     <!-- custom js -->
     <script src="assets/js/image.js"></script>
     <script type="text/javascript" src="assets/js/main.js"></script>

@@ -13,6 +13,7 @@
                 next_val = 0;
             }
             mainImage.attr( 'src' , 'assets/images/'+images[next_val]+'.jpg' );
+            $('#certificateLink').attr('href', 'assets/images/'+images[next_val]+'.jpg');
             document.getElementById( "img_no" ).value = next_val;
         });
         mainImage.fadeIn(1000);
@@ -29,11 +30,10 @@
                 prev_val = images.length - 1;
             }
             mainImage.attr( 'src' , 'assets/images/'+images[prev_val]+'.jpg' );
+           $('#certificateLink').attr('href', 'assets/images/'+images[prev_val]+'.jpg');
             document.getElementById( "img_no" ).value = prev_val;
         });
         mainImage.fadeIn(1000);
     });
-
-
 })();
 
