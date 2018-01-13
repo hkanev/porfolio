@@ -1,5 +1,5 @@
 (() => {
-    let images = ['cert3', 'cert4', 'cert1', 'cert2', 'cert5', 'cert6'];
+    let images = ['Cert3', 'cert4', 'cert1', 'cert2', 'cert5', 'cert6'];
     let mainImage = $('#certificateImage' );
 
     $('#nextBtn').click((e) => {
