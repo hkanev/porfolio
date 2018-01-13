@@ -2,39 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b2110d2-1c85-47f1-8f38-0279924e1a86" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/font_lato.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/font_monsterrat.css" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/.editorconfig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/.github/ISSUE_TEMPLATE.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/.github/PULL_REQUEST_TEMPLATE.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/.jscsrc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/.jshintrc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/.npmignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/DEPLOY.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/Gruntfile.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/ROADMAP.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/bower.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/dist/css/lightbox.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/dist/css/lightbox.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/dist/images/close.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/dist/images/loading.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/dist/images/next.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/dist/images/prev.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/dist/js/lightbox-plus-jquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/dist/js/lightbox-plus-jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/dist/js/lightbox-plus-jquery.min.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/dist/js/lightbox.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/dist/js/lightbox.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/dist/js/lightbox.min.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/examples/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/src/css/lightbox.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/src/images/close.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/src/images/loading.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/src/images/next.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/src/images/prev.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightbox2/src/js/lightbox.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cert1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cert2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cert3.jpg" afterPath="$PROJECT_DIR$/assets/images/Cert3.png" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cert4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cert5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cert6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -51,12 +28,32 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
               <folding>
-                <element signature="e#10281#10286#0" expanded="true" />
+                <element signature="e#10165#10170#0" expanded="true" />
                 <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="font_monsterrat.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/font_monsterrat.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="72" column="11" lean-forward="true" selection-start-line="72" selection-start-column="11" selection-end-line="72" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="font_lato.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/font_lato.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -75,31 +72,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cert1.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/images/Cert1.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="473">
+              <caret line="563" column="0" lean-forward="false" selection-start-line="563" selection-start-column="0" selection-end-line="563" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project-2.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/images/projects/project-2.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="project-2.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/images/projects/project-2.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="project-3.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/images/projects/project-3.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="image.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/image.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -131,6 +120,7 @@
       <list>
         <option value="package_json" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -139,6 +129,7 @@
       <find>projec</find>
       <find>Work Ex</find>
       <find>cert</find>
+      <find>proje</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -151,6 +142,8 @@
         <option value="$PROJECT_DIR$/assets/js/slideshow.js" />
         <option value="$PROJECT_DIR$/assets/js/image.js" />
         <option value="$PROJECT_DIR$/assets/css/styles.css" />
+        <option value="$PROJECT_DIR$/assets/css/font_lato.css" />
+        <option value="$PROJECT_DIR$/assets/css/font_monsterrat.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -200,19 +193,6 @@
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="porfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="porfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="porfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="porfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -228,6 +208,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -343,17 +324,18 @@
       <workItem from="1514239028458" duration="188000" />
       <workItem from="1514630208881" duration="7906000" />
       <workItem from="1515793605728" duration="2081000" />
-      <workItem from="1515828716846" duration="9036000" />
+      <workItem from="1515828716846" duration="9704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37115000" />
+    <option name="totallyTimeSpent" value="37783000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1923" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960671" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960671" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -383,15 +365,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/js/image.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="43" lean-forward="false" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/123 (2).png" />
     <entry file="file://$PROJECT_DIR$/assets/images/123.png" />
     <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -406,7 +379,7 @@
         <state relative-caret-position="3383">
           <caret line="332" column="48" lean-forward="false" selection-start-line="332" selection-start-column="48" selection-end-line="332" selection-end-column="48" />
           <folding>
-            <element signature="e#10281#10286#0" expanded="true" />
+            <element signature="e#10165#10170#0" expanded="true" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -451,7 +424,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#10281#10286#0" expanded="true" />
+            <element signature="e#10165#10170#0" expanded="true" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -496,7 +469,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#10281#10286#0" expanded="true" />
+            <element signature="e#10165#10170#0" expanded="true" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -531,7 +504,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#10281#10286#0" expanded="true" />
+            <element signature="e#10165#10170#0" expanded="true" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -619,22 +592,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="563" column="0" lean-forward="false" selection-start-line="563" selection-start-column="0" selection-end-line="563" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/image.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/images/projects/project-2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -680,12 +637,44 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/image.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/font_lato.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/font_monsterrat.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="72" column="11" lean-forward="true" selection-start-line="72" selection-start-column="11" selection-end-line="72" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="563" column="0" lean-forward="false" selection-start-line="563" selection-start-column="0" selection-end-line="563" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
           <folding>
-            <element signature="e#10281#10286#0" expanded="true" />
+            <element signature="e#10165#10170#0" expanded="true" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
